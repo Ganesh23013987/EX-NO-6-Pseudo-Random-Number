@@ -44,3 +44,4 @@ int main()
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/3e5fed5d-a0cc-49f9-8c7a-a7fe8fcf7904" />
 
 # RESULT:
+Thus the Implementation of Pseudorandom Number Generation Using Standard library has been done successfully.
