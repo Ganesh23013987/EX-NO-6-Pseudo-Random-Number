@@ -1,5 +1,8 @@
 # EX-NO-6-Pseudo-Random-Number
 
+## Name : GANESH D
+## RegNo: 212223240035
+
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 
